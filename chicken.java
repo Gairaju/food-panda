@@ -1,5 +1,0 @@
-hai
-chicken
-very bad
-
-
